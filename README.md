@@ -2,10 +2,13 @@
 
 
 ## Implementation
+Changed each tile to generate different versions of itself.
 
 ## References
+Video guide from canvas
 
 ## Future Development
+Exerice 5C
 
 ## Created by
-Nathan Mishler
+Griffith Hamlin
